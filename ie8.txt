@@ -1,0 +1,45 @@
+[url=http://download.microsoft.com/download/8/3/9/83941BA7-BDE8-4402-BEC4-51D670DF2BAB/IE8-WindowsXP-x86-CHT.exe]繁體版[/url]
+[url=http://download.microsoft.com/download/1/6/1/16174D37-73C1-4F76-A305-902E9D32BAC9/IE8-WindowsXP-x86-CHS.exe]简体版[/url]
+[url=http://download.microsoft.com/download/C/C/0/CC0BD555-33DD-411E-936B-73AC6F95AE11/IE8-WindowsXP-x86-ENU.exe]English[/url]
+
+Windows XP Professional x64
+
+[url=http://download.microsoft.com/download/3/8/8/3880478C-31E7-469D-BA9E-37373F3C5A94/IE8-WindowsServer2003-x64-CHT.exe]繁體版[/url]
+[url=http://download.microsoft.com/download/4/E/3/4E30CB91-FC6D-4358-AE62-C8F1382D2C03/IE8-WindowsServer2003-x64-CHS.exe]简体版[/url]
+[url=http://download.microsoft.com/download/7/5/4/754D6601-662D-4E39-9788-6F90D8E5C097/IE8-WindowsServer2003-x64-ENU.exe]English[/url]
+
+Windows Vista
+
+[url=http://download.microsoft.com/download/8/C/C/8CC527EF-3498-4E84-84C2-F97BC785B56E/IE8-WindowsVista-x86-CHT.exe]繁體版[/url]
+[url=http://download.microsoft.com/download/7/9/7/7973BA4C-09AA-46E7-ADBF-D18077F8A241/IE8-WindowsVista-x86-CHS.exe]简体版[/url]
+[url=http://download.microsoft.com/download/F/8/8/F88F09A2-A315-44C0-848E-48476A9E1577/IE8-WindowsVista-x86-ENU.exe]English[/url]
+
+Windows Vista x64
+
+[url=http://download.microsoft.com/download/4/A/A/4AA7204D-698A-4DE1-9CF7-978AD8F7B4E2/IE8-WindowsVista-x64-CHT.exe]繁體版[/url]
+[url=http://download.microsoft.com/download/F/4/A/F4A92676-8B12-4324-A44A-95D4CD8D16D7/IE8-WindowsVista-x64-CHS.exe]简体版[/url]
+[url=http://download.microsoft.com/download/D/C/F/DCF5DACB-313F-40C6-889C-AD1F8546099D/IE8-WindowsVista-x64-ENU.exe]English[/url]
+
+Windows Server 2003（SP2）
+
+[url=http://download.microsoft.com/download/1/A/6/1A60C48A-EAAC-411F-B528-F67456812638/IE8-WindowsServer2003-x86-CHT.exe]繁體版[/url]
+[url=http://download.microsoft.com/download/0/E/7/0E7904F9-0C7D-45AC-9058-F4ABC3B0C4AD/IE8-WindowsServer2003-x86-CHS.exe]简体版[/url]
+[url=http://download.microsoft.com/download/7/5/0/7507EBD5-0193-4B7F-9F14-9014C7EB5C67/IE8-WindowsServer2003-x86-ENU.exe]English[/url]
+
+Windows Server 2003 x64（SP2）
+
+[url=http://download.microsoft.com/download/3/8/8/3880478C-31E7-469D-BA9E-37373F3C5A94/IE8-WindowsServer2003-x64-CHT.exe]繁體版[/url]
+[url=http://download.microsoft.com/download/4/E/3/4E30CB91-FC6D-4358-AE62-C8F1382D2C03/IE8-WindowsServer2003-x64-CHS.exe]简体版[/url]
+[url=http://download.microsoft.com/download/7/5/4/754D6601-662D-4E39-9788-6F90D8E5C097/IE8-WindowsServer2003-x64-ENU.exe]English[/url]
+
+Windows Server 2008
+
+[url=http://download.microsoft.com/download/8/C/C/8CC527EF-3498-4E84-84C2-F97BC785B56E/IE8-WindowsVista-x86-CHT.exe]繁體版[/url]
+[url=http://download.microsoft.com/download/7/9/7/7973BA4C-09AA-46E7-ADBF-D18077F8A241/IE8-WindowsVista-x86-CHS.exe]简体版[/url]
+[url=http://download.microsoft.com/download/F/8/8/F88F09A2-A315-44C0-848E-48476A9E1577/IE8-WindowsVista-x86-ENU.exe]English[/url]
+
+Windows Server 2008 x64
+
+[url=http://download.microsoft.com/download/4/A/A/4AA7204D-698A-4DE1-9CF7-978AD8F7B4E2/IE8-WindowsVista-x64-CHT.exe]繁體版[/url]
+[url=http://download.microsoft.com/download/F/4/A/F4A92676-8B12-4324-A44A-95D4CD8D16D7/IE8-WindowsVista-x64-CHS.exe]简体版[/url]
+[url=http://download.microsoft.com/download/D/C/F/DCF5DACB-313F-40C6-889C-AD1F8546099D/IE8-WindowsVista-x64-ENU.exe]English[/url]
