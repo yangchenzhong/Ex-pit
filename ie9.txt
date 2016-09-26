@@ -1,0 +1,39 @@
+英文版IE9 RC：
+
+32位（x86）Windows 7版本的IE9 RC下载地址：
+
+http://download.microsoft.com/download/C/9/A/C9A53863-199C-4D82-84DD-C46C46C6FE50/IE9-Windows7-x86-enu.exe
+
+64位（x64）Windows 7版本的IE9 RC下载地址：
+
+http://download.microsoft.com/download/C/9/A/C9A53863-199C-4D82-84DD-C46C46C6FE50/IE9-Windows7-x64-enu.exe
+
+32位（x86）Windows Vista版本的IE9 RC下载地址：
+
+http://download.microsoft.com/download/C/9/A/C9A53863-199C-4D82-84DD-C46C46C6FE50/IE9-WindowsVista-x86-enu.exe
+
+64位（x64）Windows Vista版本的IE9 RC下载地址：
+
+http://download.microsoft.com/download/C/9/A/C9A53863-199C-4D82-84DD-C46C46C6FE50/IE9-WindowsVista-x64-enu.exe
+
+ 
+
+ 
+
+中文版IE9 RC：
+
+32位（x86）Windows 7版本的IE9 RC下载地址：
+
+http://download.microsoft.com/download/C/9/A/C9A53863-199C-4D82-84DD-C46C46C6FE50/IE9-Windows7-x86-chs.exe
+
+64位（x86）Windows 7版本的IE9 RC下载地址：
+
+http://download.microsoft.com/download/C/9/A/C9A53863-199C-4D82-84DD-C46C46C6FE50/IE9-Windows7-x64-chs.exe
+
+32位（x86）Windows Vista版本的IE9 RC下载地址：
+
+http://download.microsoft.com/download/C/9/A/C9A53863-199C-4D82-84DD-C46C46C6FE50/IE9-WindowsVista-x86-chs.exe
+
+64位（x86）Windows Vista版本的IE9 RC下载地址：
+
+http://download.microsoft.com/download/C/9/A/C9A53863-199C-4D82-84DD-C46C46C6FE50/IE9-WindowsVista-x64-chs.exe
